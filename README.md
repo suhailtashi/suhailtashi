@@ -21,10 +21,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Suhail___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Suhail___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/suhailtashi___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/suhailtashi___________
-[linkedin]: https://linkedin.com/in/suhailtashi___________
+[twitter]: https://x.com/suhailtashi
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/suhailtashi
+[linkedin]: https://linkedin.com/in/suhailtashi
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
