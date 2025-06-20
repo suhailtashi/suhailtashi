@@ -22,8 +22,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Suhail___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/suhailtashi
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/suhailtashi
+[youtube]: https://www.youtube.com/channel/UCbUoTlJiA7KvQvQYhpdydWw
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/suhailtashi
 
 <!--
